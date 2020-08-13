@@ -1,5 +1,3 @@
-//https://github.com/linyacool/lexical_syntax_analysis
-
 #include <iostream>
 #include <cstring>
 #include <cstdio>
